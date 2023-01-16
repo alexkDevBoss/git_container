@@ -3,4 +3,4 @@ Hi my name is Alex
 Hello world
 Hi class
 My name is Bob
-Hi class
+Hi everyone
