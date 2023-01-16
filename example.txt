@@ -1,5 +1,5 @@
 Hi my name is Tom
 Hi my name is Alex
 Hello world
-Hi classname is Bob
+classname is Bob
 This is example
