@@ -1,3 +1,4 @@
 Hi my name is Tom
 Hi my name is Alex
 Hello world
+Hi class
