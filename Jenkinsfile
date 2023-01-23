@@ -6,9 +6,10 @@ pipeline {
 				sh "echo Jenkins in GIT"
 			}
 		}
-		stage("Run another example")
+		stage("Run another example"){
 			steps{
 				sh "echo another branch"
 			}
+		}
 	}
 }
